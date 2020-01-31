@@ -1,0 +1,4 @@
+zSPI.c:11:19:SPI_read_register	16	static
+zSPI.c:33:19:SPI_burst_read	16	static
+zSPI.c:55:19:SPI_write_register	16	static
+zSPI.c:75:19:SPI_burst_write	24	static
